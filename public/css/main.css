@@ -1,0 +1,17 @@
+.form-email {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+  }
+
+.qr-div{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+}
+p{
+    text-align: center;
+}
